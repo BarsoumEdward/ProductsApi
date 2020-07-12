@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <h1 class="text-center">Register By Web Api</h1>
+    <a href="Login.html" class="btn btn-primary" style="position:absolute;top:20px;left:1200px;">Login Now</a>
+
+    <br><br><br>
+
+    <div class="form-group">
+        <label>Username</label>
+        <input type="text" id="username" placeholder="Enter Username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="password" placeholder="Enter Password" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Confirm Password</label>
+        <input type="password" id="confirmpassword" placeholder="Confirm Password" class="form-control" />
+    </div>
+    <input type="button" id="registerbtn" value="Register" class="btn btn-success" />
+
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script>
+        $(function () {
+
+            $("#registerbtn").click(function () {
+
+                $.ajax({
+
+                    type: "post",
+                    url: "api/account",
+                    data: { username: $("#username").val(), password: $("#password").val(), confirmPassword: $("#confirmpassword").val() },
+                    dataType: "json",
+                    success: function (data) {
+                        alert(data);
+                        window.location.href = "login.html";
+                    },
+                    error: function (xhr) {
+                        alert(xhr.responseText);
+                       
+                    }
+
+                });
+            })
+
+        })
+
+    </script>
+</body>
+</html>

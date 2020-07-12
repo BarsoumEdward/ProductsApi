@@ -1,0 +1,373 @@
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\ProjectApi.dll.config
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\ProjectApi.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\ProjectApi.pdb
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\csc.exe
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\csc.exe.config
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\csc.rsp
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\csi.exe
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\csi.exe.config
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\csi.rsp
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.AppContext.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Console.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Net.Http.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\vbc.exe
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\vbc.exe.config
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\vbc.rsp
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\EntityFramework.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Newtonsoft.Json.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Owin.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Web.Cors.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Web.Http.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\EntityFramework.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Newtonsoft.Json.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Web.Http.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csprojAssemblyReference.cache
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CoreCompileInputs.cache
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CopyComplete
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\obj\Debug\ProjectApi.dll
+C:\Users\barso\source\repos\ProjectApi\ProjectApi\obj\Debug\ProjectApi.pdb
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\ProjectApi.dll.config
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\ProjectApi.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\ProjectApi.pdb
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\csc.exe
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\csc.exe.config
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\csc.rsp
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\csi.exe
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\csi.exe.config
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\csi.rsp
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.AppContext.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Console.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Net.Http.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\vbc.exe
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\vbc.exe.config
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\vbc.rsp
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\EntityFramework.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Newtonsoft.Json.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Owin.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Web.Cors.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Web.Http.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\EntityFramework.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Newtonsoft.Json.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Web.Http.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csprojAssemblyReference.cache
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CoreCompileInputs.cache
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CopyComplete
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.dll
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.pdb
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.Migrations.set1.resources
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.GenerateResource.cache
+C:\Users\barso\OneDrive\Desktop\ProjectApi\ProjectApi\obj\Debug\ProjectApi.Migrations.set2.resources
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\ProjectApi.dll.config
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\ProjectApi.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\ProjectApi.pdb
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csc.exe
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csc.exe.config
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csc.rsp
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csi.exe
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csi.exe.config
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csi.rsp
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.AppContext.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Console.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Net.Http.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\vbc.exe
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\vbc.exe.config
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\vbc.rsp
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Newtonsoft.Json.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Owin.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Cors.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Newtonsoft.Json.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csprojAssemblyReference.cache
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.Migrations.set1.resources
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.Migrations.set2.resources
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.GenerateResource.cache
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CoreCompileInputs.cache
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CopyComplete
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.dll
+C:\Users\barso\OneDrive\Desktop\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.pdb
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\ProjectApi.dll.config
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\ProjectApi.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\ProjectApi.pdb
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csc.exe
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csc.exe.config
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csc.rsp
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csi.exe
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csi.exe.config
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\csi.rsp
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.AppContext.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Collections.Immutable.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Console.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Globalization.Calendars.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Net.Http.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Net.Sockets.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Reflection.Metadata.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.ValueTuple.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\vbc.exe
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\vbc.exe.config
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\vbc.rsp
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\roslyn\VBCSCompiler.exe.config
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Newtonsoft.Json.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Owin.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Cors.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\EntityFramework.SqlServer.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Cors.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Newtonsoft.Json.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Net.Http.Formatting.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\System.Web.Http.Owin.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csprojAssemblyReference.cache
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.Migrations.set1.resources
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.Migrations.set2.resources
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.GenerateResource.cache
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CoreCompileInputs.cache
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.csproj.CopyComplete
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.dll
+F:\ITI_Course\Web API\Barsoum ProjectApi\ProjectApi\ProjectApi\obj\Debug\ProjectApi.pdb

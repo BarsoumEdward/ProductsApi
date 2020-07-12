@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <h1 class="text-center">Other Methods In Web Api</h1>
+
+    <a href="product.html" class="btn btn-primary" style="position:absolute;top:20px;left:1200px;">Diaplay Product</a>
+    <label>Select Product in Case Get By Id or Put or Delete</label>
+    <select id="myselect" class="form-control">
+    </select>
+    <br />
+    <input type="button" id="delete" value="Delete" class="btn btn-success" />
+    <input type="button" id="getbyId" value="Get By Id" class="btn btn-success" />
+
+
+    <h2>Enter Product Data</h2>
+
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" id="name" placeholder="Enter Name Of Product" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Price</label>
+        <input type="text" id="price" placeholder="Enter Price" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Description</label>
+        <textarea id="desc" placeholder="Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Category</label>
+        <input type="text" id="Category" placeholder="Enter Category" class="form-control" />
+    </div>
+
+
+
+
+
+    <input type="button" id="post" value="Post" class="btn btn-success" />
+    <input type="button" id="put" value="Update" class="btn btn-success" />
+
+
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <script>
+
+        $(function () {
+
+
+
+            //Select
+            onload = $.ajax({
+
+                type: "get",
+                url: "api/products",
+                headers: { "Authorization": "bearer " + sessionStorage.getItem("accessToken") },
+                dataType: "json",
+                success: function (data) {
+
+
+                    $.each(data, function (index, value) {
+
+                        $("#myselect").append("<option value=" + value.Id + ">" + value.Name + "</option>");
+                    });
+                },
+                error: function (xhr) {
+                    alert(xhr.responseText);
+                }
+
+            });
+
+
+
+            //Get By Id
+            $("#getbyId").click(function () {
+
+                $.ajax({
+
+                    type: "get",
+                    url: "api/products/" + $("#myselect").val(),
+                    headers: { "Authorization": "bearer " + sessionStorage.getItem("accessToken") },
+                    dataType: "json",
+                    success: function (data) {
+                        $("#name").val(data.Name);
+                        $("#price").val(data.price);
+                        $("#desc").val(data.Description);
+                        $("#Category").val(data.Category);
+                    },
+                    error: function (xhr) {
+                        alert(xhr.responseText);
+                    }
+
+                });
+            })
+
+
+
+            //Post
+
+            $("#post").click(function () {
+
+                $.ajax({
+
+                    type: "post",
+                    url: "api/products",
+                    headers: {
+                        "Authorization": "bearer " + sessionStorage.getItem("accessToken")
+                    },
+                    data: {
+                        Name: $("#name").val(),
+                        price: $("#price").val(),
+                        Description: $("#desc").val(),
+                        Category: $("#Category").val()
+
+                    },
+                    dataType: "json",
+                    success: function (data) {
+                        alert(data.Name + " Add Successfully!");
+                    },
+                    error: function (xhr) {
+                        alert(xhr.responseText);
+                    }
+
+                });
+            })
+
+
+            //Put
+
+            $("#put").click(function () {
+
+                $.ajax({
+
+                    type: "put",
+                    url: "api/products/" + $("#myselect").val(),
+                    headers: { "Authorization": "bearer " + sessionStorage.getItem("accessToken") },
+                    data: {
+                        Id: $("#myselect").val(),
+                        Name: $("#name").val(),
+                        price: $("#price").val(),
+                        Description: $("#desc").val(),
+                        Category: $("#Category").val()
+
+                    },
+                    dataType: "json",
+                    success: function (data) {
+                        alert(" Update Successfully!");
+                    },
+                    error: function (xhr) {
+                        alert(xhr.responseText);
+                    }
+
+                });
+            })
+
+
+            // delete
+
+            $("#delete").click(function () {
+
+                $.ajax({
+
+                    type: "delete",
+                    url: "api/products/" + $("#myselect").val(),
+                    headers: { "Authorization": "bearer " + sessionStorage.getItem("accessToken") },
+
+                    dataType: "json",
+                    success: function (data) {
+                        alert(data.Name + " Deleted Successfully!");
+                    },
+                    error: function (xhr) {
+                        alert(xhr.responseText);
+                    }
+
+                });
+            })
+
+
+
+
+
+
+        });
+
+
+    </script>
+</body>
+</html>

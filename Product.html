@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <h1 class="text-center">Get All Products</h1>
+    <input type="button" id="logoutbtn" class="btn btn-primary" value="Log out" style="position:absolute;top:20px;left:1200px;">
+
+    <br><br><br>
+
+    <input type="button" id="load" value="Load Products" class="btn btn-success" />
+    <a href="OtherMethods.html" class="btn btn-warning">Go to PosT | Put | Delete</a>
+
+
+    <br /><br />
+    <table class="table table-bordered" id="tbl">
+        <thead>
+            <tr class="table table-primary">
+                <th>Name</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody id="tblbody">
+        </tbody>
+    </table>
+
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script>
+        $(function () {
+            $("#logoutbtn").click(function () {
+                localStorage.removeItem("accessToken");
+                window.location.href = "login.html";
+            });
+
+
+            if (sessionStorage.getItem("accessToken") == null) {
+                window.location.href = "Login.html";
+            }
+
+            $("#load").click(function () {
+                $("#tblbody").empty();
+                $.ajax({
+
+                    type: "get",
+                    url: "api/products",
+                    headers: { "Authorization": "bearer " + sessionStorage.getItem("accessToken") },
+                    dataType: "json",
+                    success: function (data) {
+
+
+                        $.each(data, function (index, value) {
+                            var row = $("<tr><td>" + value.Name + "</td><td>" + value.price + "</td><td>"
+                                + value.Description + "</td><td>" + value.Category + "</td></tr>");
+                            $("#tbl").append(row);
+                        });
+                    },
+                    error: function (xhr) {
+                        alert(xhr.responseText);
+                    }
+
+                });
+            })
+
+        })
+
+    </script>
+</body>
+</html>
